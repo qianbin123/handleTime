@@ -1,0 +1,19 @@
+{
+  "name": "handletime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "module_handleTime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qianbin123/handleTime.git"
+  },
+  "author": "qianbin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qianbin123/handleTime/issues"
+  },
+  "homepage": "https://github.com/qianbin123/handleTime#readme"
+}
